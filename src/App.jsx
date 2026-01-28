@@ -5,7 +5,6 @@ import MainLayout from './layouts/MainLayout';
 
 const Home = lazy(() => import('./pages/Home'));
 const About = lazy(() => import('./pages/About'));
-const Products = lazy(() => import('./pages/Products'));
 const Contact = lazy(() => import('./pages/Contact'));
 
 function App() {
